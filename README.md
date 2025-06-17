@@ -92,10 +92,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 * **[Software Engineer, GTM AI](https://jobs.lever.co/dronedeploy/a2a23d6c-7d07-4cfa-85e6-5de39b03cb0c)** — _n/a_ _(posted 2025-06-11)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/g6nto1nwaccj7tzmh4xg.webp" width="24" height="24" alt="Eli Lilly and Company logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Eli Lilly and Company](https://jobo.world/company/Eli-Lilly-And-Company)
-
-* **[AI Platform Lead System Engineer](https://lilly.wd5.myworkdayjobs.com/lly/job/US-USA-Remote/Catalyze360-AI-Platform-Lead-System-Engineer_R-81063-1)** — _n/a_ _(posted 2025-03-17)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ipifgxgolwngp35qighc.webp" width="24" height="24" alt="Fiddler AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fiddler AI](https://jobo.world/company/Fiddler-AI)
 
 * **[Senior Solutions Engineer (Remote)](https://jobs.ashbyhq.com/fiddler-ai/6ac4463b-9593-4c1f-b9b6-5b5526aa8f88)** — _n/a_ _(posted 2025-04-09)_
@@ -118,7 +114,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gjruly2mmfhjz3muesax.webp" width="24" height="24" alt="Foodsmart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foodsmart](https://jobo.world/company/Foodsmart)
 
-* **[Principal AI Engineer](https://jobs.lever.co/foodsmart/fa4849ce-a950-45a9-b449-7009cbf8c4e4)** — _n/a_ _(posted 2025-05-31)_
 * **[Senior AI Engineer](https://jobs.lever.co/foodsmart/721a1ecf-2e21-4a66-94d0-7079bba6945d)** — _n/a_ _(posted 2025-05-31)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hesujoi8iavisymm5ug3.webp" width="24" height="24" alt="General Assembly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[General Assembly](https://jobo.world/company/General-Assembly)
@@ -173,6 +168,10 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 * **[Research Associate - AI](https://apply.workable.com/keywords-intl1/j/685C470D2C/)** — ¤50,400 – ¤56,700 USD _(posted 2025-03-03)_
 * **[Senior Research Associate - AI](https://apply.workable.com/keywords-intl1/j/AE603623C1/)** — ¤56,160 – ¤73,680 USD _(posted 2025-02-20)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/c1quzk9ztnguozq9gkd5.webp" width="24" height="24" alt="Kustomer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kustomer](https://jobo.world/company/Kustomer)
+
+* **[Professional Services Director of Technical AI Delivery](https://jobs.ashbyhq.com/kustomer/723d38d9-3e1e-4eac-8e4f-bc73e159564c)** — _n/a_ _(posted 2025-06-11)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bjxntapcwce90erhhj8b.webp" width="24" height="24" alt="Machinify logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Machinify](https://jobo.world/company/Machinify)
 
 * **[Lead ML Engineer](https://jobs.ashbyhq.com/machinify/8505920d-6301-47f6-aede-6fba5952a6da)** — _n/a_ _(posted 2025-03-12)_
@@ -205,6 +204,10 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dc38htlnujhd1sx7rjjk.webp" width="24" height="24" alt="Replicant logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Replicant](https://jobo.world/company/Replicant)
 
 * **[Sales Engineer - Bilingual Spanish/English](https://jobs.ashbyhq.com/replicant/e5190f2f-be57-4243-a365-fc258ddfe035)** — _n/a_ _(posted 2025-06-01)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vunepkbbyb0nzxuzmazf.webp" width="24" height="24" alt="Rogo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rogo](https://jobo.world/company/Rogo)
+
+* **[Financial AI Strategist](https://jobs.ashbyhq.com/rogo/d8bc2083-f269-49dc-b4f1-beb870a08e81)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jaxx1aebiejky8uisgvf.webp" width="24" height="24" alt="SailPoint logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SailPoint](https://jobo.world/company/SailPoint)
 
@@ -302,4 +305,4 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 * **[Director, AI Solutions](https://jobs.lever.co/wpromote/0dd0873d-e15c-46c0-a11f-55d9335e51d1)** — ¤135,000 – ¤175,000 USD _(posted 2025-05-23)_
 
 ---
-_Updated automatically — 2025-06-16_
+_Updated automatically — 2025-06-17_
