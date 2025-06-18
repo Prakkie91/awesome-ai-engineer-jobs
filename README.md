@@ -305,4 +305,4 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 * **[Director, AI Solutions](https://jobs.lever.co/wpromote/0dd0873d-e15c-46c0-a11f-55d9335e51d1)** — ¤135,000 – ¤175,000 USD _(posted 2025-05-23)_
 
 ---
-_Updated automatically — 2025-06-17_
+_Updated automatically — 2025-06-18_
