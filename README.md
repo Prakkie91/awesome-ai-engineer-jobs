@@ -190,6 +190,14 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 * **[AI Project Reviewer (TEMP)](https://job-boards.greenhouse.io/masterclass/jobs/6795250)** — _n/a_ _(posted 2025-04-11)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
+
+* **[Software Engineer, Full Stack (People Innovation)](https://jobs.ashbyhq.com/openai/d4780eac-03ad-4dae-861f-99af22b4287e)** — ¤200,000 – ¤385,000 USD _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eh6ujvleqqlksv3spdzl.webp" width="24" height="24" alt="Plotly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Plotly](https://jobo.world/company/Plotly)
+
+* **[Senior Full Stack Software Engineer- AI](https://job-boards.greenhouse.io/plotly/jobs/8041949002)** — _n/a_ _(posted 2025-06-19)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/soku7uepfoyx1wjqaus4.webp" width="24" height="24" alt="Protective Life logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Protective Life](https://jobo.world/company/Protective-Life)
 
 * **[Lead AI/ML Engineer](https://jobs.lever.co/protective/87a65cc8-c3cc-437a-bac5-a7189c50ed9a)** — _n/a_ _(posted 2025-06-10)_
@@ -227,10 +235,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 * **[Agentic AI Machine Learning Engineer](https://job-boards.greenhouse.io/sciencelogic/jobs/6956419)** — _n/a_ _(posted 2025-06-06)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dchccft73peyjb9awdqi.webp" width="24" height="24" alt="Serve Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Serve Robotics](https://jobo.world/company/Serve-Robotics)
-
-* **[Software Engineer, ML Infrastructure ](https://jobs.ashbyhq.com/serverobotics/e4f81a77-8740-4e8e-a545-21a19d6c33ea)** — ¤119,000 – ¤160,000 USD _(posted 2025-03-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bofnls9cj8rnb4xpkig8.webp" width="24" height="24" alt="Snorkel AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Snorkel AI](https://jobo.world/company/Snorkel-AI)
 
 * **[AI Success Manager (AISM) Federal](https://job-boards.greenhouse.io/snorkelai/jobs/5567429004)** — _n/a_ _(posted 2025-06-18)_
@@ -266,7 +270,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 * **[Staff Quality Engineer I](https://jobs.lever.co/trueml/ba75f151-4a1c-48f4-a01a-73efa2146b6e)** — _n/a_ _(posted 2025-06-06)_
 * **[Engineer II, Infrastructure](https://jobs.lever.co/trueml/55946499-9460-4d70-9b21-94c16b0dac33)** — _n/a_ _(posted 2025-04-16)_
-* **[Engineering Manager](https://jobs.lever.co/trueml/d77105a8-f411-42a7-b23c-67687a7fa9b4)** — _n/a_ _(posted 2025-03-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wkrv8bqwzwnyiu1zirqr.webp" width="24" height="24" alt="Trunk Tools logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Trunk Tools](https://jobo.world/company/Trunk-Tools,-Inc.)
 
@@ -308,4 +311,4 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 * **[Director, AI Solutions](https://jobs.lever.co/wpromote/0dd0873d-e15c-46c0-a11f-55d9335e51d1)** — ¤135,000 – ¤175,000 USD _(posted 2025-05-23)_
 
 ---
-_Updated automatically — 2025-06-19_
+_Updated automatically — 2025-06-20_
