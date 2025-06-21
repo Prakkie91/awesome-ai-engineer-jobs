@@ -169,6 +169,7 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ahthrshvmkoqome9owj0.webp" width="24" height="24" alt="Keywords Studios logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keywords Studios](https://jobo.world/company/Keywords-Studios)
 
+* **[Human Data Research Analyst](https://apply.workable.com/keywords-intl1/j/5616A8953F/)** — ¤35,000 – ¤40,000 USD _(posted 2025-06-19)_
 * **[Research Associate - AI (Eastern Standard Time)](https://apply.workable.com/keywords-intl1/j/1F55CC3323/)** — ¤50,400 – ¤56,160 USD _(posted 2025-03-12)_
 * **[Technical Research Associate - AI](https://apply.workable.com/keywords-intl1/j/AD6CD45570/)** — ¤53,840 – ¤60,720 USD _(posted 2025-03-03)_
 * **[Research Associate - AI](https://apply.workable.com/keywords-intl1/j/685C470D2C/)** — ¤50,400 – ¤56,700 USD _(posted 2025-03-03)_
@@ -189,10 +190,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hepiouonxewdzlkudt6d.webp" width="24" height="24" alt="MasterClass logo" style="vertical-align:middle"/>&nbsp;&nbsp;[MasterClass](https://jobo.world/company/MasterClass)
 
 * **[AI Project Reviewer (TEMP)](https://job-boards.greenhouse.io/masterclass/jobs/6795250)** — _n/a_ _(posted 2025-04-11)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
-
-* **[Software Engineer, Full Stack (People Innovation)](https://jobs.ashbyhq.com/openai/d4780eac-03ad-4dae-861f-99af22b4287e)** — ¤200,000 – ¤385,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eh6ujvleqqlksv3spdzl.webp" width="24" height="24" alt="Plotly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Plotly](https://jobo.world/company/Plotly)
 
@@ -311,4 +308,4 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 * **[Director, AI Solutions](https://jobs.lever.co/wpromote/0dd0873d-e15c-46c0-a11f-55d9335e51d1)** — ¤135,000 – ¤175,000 USD _(posted 2025-05-23)_
 
 ---
-_Updated automatically — 2025-06-20_
+_Updated automatically — 2025-06-21_
