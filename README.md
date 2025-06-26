@@ -8,8 +8,8 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fas521kp6jmfndrua622.webp" width="24" height="24" alt="3cloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[3cloud](https://jobo.world/company/3cloud)
 
+* **[Architect - AI](https://job-boards.greenhouse.io/3cloud/jobs/8048289002)** — _n/a_ _(posted 2025-06-25)_
 * **[Director AI](https://job-boards.greenhouse.io/3cloud/jobs/8033899002)** — _n/a_ _(posted 2025-06-13)_
-* **[Architect - AI](https://job-boards.greenhouse.io/3cloud/jobs/8015026002)** — _n/a_ _(posted 2025-05-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rhksuz0w6frlhe8x8d9x.webp" width="24" height="24" alt="Aiwyn logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aiwyn](https://jobo.world/company/Aiwyn)
 
@@ -73,6 +73,7 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bqklosjijtqkmxnsehvz.webp" width="24" height="24" alt="Cresta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cresta](https://jobo.world/company/Cresta)
 
 * **[Forward Deployed Engineer (AI Agent)](https://job-boards.greenhouse.io/cresta/jobs/4759347008)** — _n/a_ _(posted 2025-06-13)_
+* **[Junior Conversational AI Designer](https://boards.greenhouse.io/cresta/jobs/4671548008)** — _n/a_ _(posted 2025-05-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
@@ -96,6 +97,14 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 * **[Forward Deployed Engineer - Architect](https://job-boards.greenhouse.io/devrev/jobs/5554325004)** — _n/a_ _(posted 2025-05-31)_
 * **[Architect- Applied AI Engineer](https://job-boards.greenhouse.io/devrev/jobs/5528192004)** — _n/a_ _(posted 2025-04-29)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hgirylfmfxfcdsc1odvb.webp" width="24" height="24" alt="doola logo" style="vertical-align:middle"/>&nbsp;&nbsp;[doola](https://jobo.world/company/doola)
+
+* **[AI Engineering Manager](https://jobs.lever.co/doola/de732330-e1f4-4c07-ab55-a70429444bf8)** — _n/a_ _(posted 2025-06-24)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dk4b0wh7a7bjmrawfziu.webp" width="24" height="24" alt="DroneDeploy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DroneDeploy](https://jobo.world/company/DroneDeploy)
+
+* **[Software Engineer, GTM AI](https://jobs.lever.co/dronedeploy/a2a23d6c-7d07-4cfa-85e6-5de39b03cb0c)** — _n/a_ _(posted 2025-06-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ipifgxgolwngp35qighc.webp" width="24" height="24" alt="Fiddler AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fiddler AI](https://jobo.world/company/Fiddler-AI)
 
@@ -157,10 +166,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 * **[AI Product Researcher - Data Science](https://jobs.ashbyhq.com/jellyfish/97fa8d6b-085b-49ff-aedc-4c03b6009d36)** — _n/a_ _(posted 2025-05-06)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yv2zgeoglbnplmkzicpt.webp" width="24" height="24" alt="Karat logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Karat](https://jobo.world/company/Karat)
-
-* **[Principal Product Manager (AI Products) (United States)](https://job-boards.greenhouse.io/karat/jobs/7993843002)** — ¤200,000 – ¤300,000 USD _(posted 2025-05-15)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ahthrshvmkoqome9owj0.webp" width="24" height="24" alt="Keywords Studios logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keywords Studios](https://jobo.world/company/Keywords-Studios)
 
 * **[Human Data Research Analyst](https://apply.workable.com/keywords-intl1/j/5616A8953F/)** — ¤35,000 – ¤40,000 USD _(posted 2025-06-19)_
@@ -193,6 +198,10 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 * **[Senior Applied Scientist](https://job-boards.greenhouse.io/gomotive/jobs/8042652002)** — _n/a_ _(posted 2025-06-24)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
+
+* **[Security Engineer, Threat Intelligence](https://jobs.ashbyhq.com/openai/0a1831ac-752d-496c-9d48-e8309afc12d9)** — ¤260,000 – ¤405,000 USD _(posted 2025-06-25)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eh6ujvleqqlksv3spdzl.webp" width="24" height="24" alt="Plotly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Plotly](https://jobo.world/company/Plotly)
 
 * **[Senior Full Stack Software Engineer- AI](https://job-boards.greenhouse.io/plotly/jobs/8041949002)** — _n/a_ _(posted 2025-06-19)_
@@ -214,6 +223,10 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 * **[Applied AI Engineer (Audio)](https://jobs.ashbyhq.com/realitydefender/17780f5b-bc7e-472e-b6a3-e3141377e06a)** — ¤150,000 – ¤220,000 USD _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vunepkbbyb0nzxuzmazf.webp" width="24" height="24" alt="Rogo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rogo](https://jobo.world/company/Rogo)
+
+* **[Financial AI Strategist](https://jobs.ashbyhq.com/rogo/d8bc2083-f269-49dc-b4f1-beb870a08e81)** — _n/a_ _(posted 2025-03-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jaxx1aebiejky8uisgvf.webp" width="24" height="24" alt="SailPoint logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SailPoint](https://jobo.world/company/SailPoint)
 
 * **[Principal Engineer - Platform Architecture](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-San-Jose-California-USA/Principal-Engineer---Platform-Architecture_R010897)** — _n/a_ _(posted 2025-06-02)_
@@ -226,12 +239,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 * **[Agentic AI Machine Learning Engineer](https://job-boards.greenhouse.io/sciencelogic/jobs/6956419)** — _n/a_ _(posted 2025-06-06)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
-
-* **[Staff Software Gen AI Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000066365395-staff-software-gen-ai-engineer?oga=true)** — _n/a_ _(posted 2025-06-20)_
-* **[Staff Software Gen AI Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000066362081-staff-software-gen-ai-engineer?oga=true)** — _n/a_ _(posted 2025-06-20)_
-* **[Staff Software Gen AI Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000066364121-staff-software-gen-ai-engineer?oga=true)** — _n/a_ _(posted 2025-06-20)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bofnls9cj8rnb4xpkig8.webp" width="24" height="24" alt="Snorkel AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Snorkel AI](https://jobo.world/company/Snorkel-AI)
 
 * **[AI Success Manager (AISM) Federal](https://job-boards.greenhouse.io/snorkelai/jobs/5567429004)** — _n/a_ _(posted 2025-06-18)_
@@ -240,7 +247,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 * **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/8d1803d4-b244-46a9-92e9-8a6d8e7fef64)** — ¤163,000 – ¤232,000 USD _(posted 2025-06-10)_
 * **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/7624ff17-e507-4756-8c61-08dfa6465d18)** — ¤191,000 – ¤273,000 USD _(posted 2025-05-07)_
-* **[Senior Manager, AI ML Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/1a8b2db8-d339-4f68-a598-1cec00c67c91)** — ¤166,000 – ¤259,000 USD _(posted 2025-03-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t5wr5b1aqi2iummogzxo.webp" width="24" height="24" alt="Spot AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Spot AI](https://jobo.world/company/Spot-AI)
 
@@ -308,4 +314,4 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 * **[Director, AI Solutions](https://jobs.lever.co/wpromote/0dd0873d-e15c-46c0-a11f-55d9335e51d1)** — ¤135,000 – ¤175,000 USD _(posted 2025-05-23)_
 
 ---
-_Updated automatically — 2025-06-25_
+_Updated automatically — 2025-06-26_
