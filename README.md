@@ -201,6 +201,7 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
 
 * **[Security Engineer, Threat Intelligence](https://jobs.ashbyhq.com/openai/0a1831ac-752d-496c-9d48-e8309afc12d9)** — ¤260,000 – ¤405,000 USD _(posted 2025-06-25)_
+* **[Software Engineer, Full Stack (People Innovation)](https://jobs.ashbyhq.com/openai/d4780eac-03ad-4dae-861f-99af22b4287e)** — ¤200,000 – ¤385,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eh6ujvleqqlksv3spdzl.webp" width="24" height="24" alt="Plotly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Plotly](https://jobo.world/company/Plotly)
 
@@ -272,7 +273,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ygnclnukk5vq4h7jcssi.webp" width="24" height="24" alt="TrueML logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TrueML](https://jobo.world/company/TrueML)
 
 * **[Staff Quality Engineer I](https://jobs.lever.co/trueml/ba75f151-4a1c-48f4-a01a-73efa2146b6e)** — _n/a_ _(posted 2025-06-06)_
-* **[Engineer II, Infrastructure](https://jobs.lever.co/trueml/55946499-9460-4d70-9b21-94c16b0dac33)** — _n/a_ _(posted 2025-04-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wkrv8bqwzwnyiu1zirqr.webp" width="24" height="24" alt="Trunk Tools logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Trunk Tools](https://jobo.world/company/Trunk-Tools,-Inc.)
 
@@ -314,4 +314,4 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 * **[Director, AI Solutions](https://jobs.lever.co/wpromote/0dd0873d-e15c-46c0-a11f-55d9335e51d1)** — ¤135,000 – ¤175,000 USD _(posted 2025-05-23)_
 
 ---
-_Updated automatically — 2025-06-26_
+_Updated automatically — 2025-06-27_
