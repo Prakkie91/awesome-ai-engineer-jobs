@@ -11,6 +11,10 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 * **[Architect - AI](https://job-boards.greenhouse.io/3cloud/jobs/8048289002)** — _n/a_ _(posted 2025-06-25)_
 * **[Director AI](https://job-boards.greenhouse.io/3cloud/jobs/8033899002)** — _n/a_ _(posted 2025-06-13)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zprlx3cloasr5utwjktm.webp" width="24" height="24" alt="AE Studio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AE Studio](https://jobo.world/company/AE-Studio)
+
+* **[Data Scientist](https://boards.greenhouse.io/aestudio/jobs/4011756004)** — _n/a_ _(posted 2025-03-14)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rhksuz0w6frlhe8x8d9x.webp" width="24" height="24" alt="Aiwyn logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aiwyn](https://jobo.world/company/Aiwyn)
 
 * **[Senior Machine Learning Engineer](https://jobs.lever.co/aiwyn/4bcd6b67-11bd-4a70-8b5c-3e5040f4f9fa)** — _n/a_ _(posted 2025-06-06)_
@@ -36,10 +40,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ggceq0tw5pnlncrgxzu5.webp" width="24" height="24" alt="Arine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arine](https://jobo.world/company/Arine)
 
 * **[Principal AI Engineer](https://job-boards.greenhouse.io/arine/jobs/5561059004)** — _n/a_ _(posted 2025-06-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wmk89815sfaplzwlwfj2.webp" width="24" height="24" alt="Arrow Electronics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arrow Electronics](https://jobo.world/company/Arrow-Electronics)
-
-* **[IBM AI Evangelist](https://arrow.wd1.myworkdayjobs.com/ac/job/US-NY-New-York-Remote-Employees/IBM-AI-Evangelist_R232029)** — _n/a_ _(posted 2025-06-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fhsbwfck9brhwntjbb9f.webp" width="24" height="24" alt="Assembled logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Assembled](https://jobo.world/company/Assembled)
 
@@ -73,7 +73,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bqklosjijtqkmxnsehvz.webp" width="24" height="24" alt="Cresta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cresta](https://jobo.world/company/Cresta)
 
 * **[Forward Deployed Engineer (AI Agent)](https://job-boards.greenhouse.io/cresta/jobs/4759347008)** — _n/a_ _(posted 2025-06-13)_
-* **[Junior Conversational AI Designer](https://boards.greenhouse.io/cresta/jobs/4671548008)** — _n/a_ _(posted 2025-05-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
@@ -198,14 +197,21 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 * **[Senior Applied Scientist](https://job-boards.greenhouse.io/gomotive/jobs/8042652002)** — _n/a_ _(posted 2025-06-24)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
+
+* **[Solutions Architect, Generative AI](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Solutions-Architect--Generative-AI_JR1999305)** — _n/a_ _(posted 2025-06-26)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
 
 * **[Security Engineer, Threat Intelligence](https://jobs.ashbyhq.com/openai/0a1831ac-752d-496c-9d48-e8309afc12d9)** — ¤260,000 – ¤405,000 USD _(posted 2025-06-25)_
-* **[Software Engineer, Full Stack (People Innovation)](https://jobs.ashbyhq.com/openai/d4780eac-03ad-4dae-861f-99af22b4287e)** — ¤200,000 – ¤385,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eh6ujvleqqlksv3spdzl.webp" width="24" height="24" alt="Plotly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Plotly](https://jobo.world/company/Plotly)
 
 * **[Senior Full Stack Software Engineer- AI](https://job-boards.greenhouse.io/plotly/jobs/8041949002)** — _n/a_ _(posted 2025-06-19)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ouaczxlwlkcqf2eimdw2.webp" width="24" height="24" alt="PointClickCare logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PointClickCare](https://jobo.world/company/PointClickCare)
+
+* **[Sr Engineer - Data Platform &amp; AI (USA)](https://jobs.lever.co/pointclickcare/170c2d07-2f7b-49d8-8e32-470d1ca0174a)** — _n/a_ _(posted 2025-06-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tckn4lxm8tiyawnuibs4.webp" width="24" height="24" alt="Protegrity logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Protegrity](https://jobo.world/company/Protegrity)
 
@@ -314,4 +320,4 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 * **[Director, AI Solutions](https://jobs.lever.co/wpromote/0dd0873d-e15c-46c0-a11f-55d9335e51d1)** — ¤135,000 – ¤175,000 USD _(posted 2025-05-23)_
 
 ---
-_Updated automatically — 2025-06-27_
+_Updated automatically — 2025-06-28_
