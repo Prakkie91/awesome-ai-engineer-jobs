@@ -21,10 +21,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 * **[Research Engineer, Agents](https://job-boards.greenhouse.io/anthropic/jobs/4017544008)** — _n/a_ _(posted 2025-04-22)_
 * **[Research Engineer / Scientist, Alignment Science](https://job-boards.greenhouse.io/anthropic/jobs/4631822008)** — _n/a_ _(posted 2025-04-16)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lbufpqzw8oxu5j9gdgjf.webp" width="24" height="24" alt="Appen logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Appen](https://jobo.world/company/Appen)
-
-* **[Director of AI Crowd Insights](https://jobs.lever.co/appen-2/1e83dc63-dede-4605-bd57-817f26fba3c0)** — _n/a_ _(posted 2025-01-14)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ggceq0tw5pnlncrgxzu5.webp" width="24" height="24" alt="Arine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arine](https://jobo.world/company/Arine)
 
 * **[Principal AI Engineer](https://job-boards.greenhouse.io/arine/jobs/5561059004)** — _n/a_ _(posted 2025-06-12)_
@@ -286,6 +282,7 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zq1j3077jl0jza2qltop.webp" width="24" height="24" alt="Turing logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Turing](https://jobo.world/company/Turing)
 
+* **[Applied Research Engineer – Robotics Data &amp; ML](https://job-boards.greenhouse.io/turing/jobs/5576004004)** — _n/a_ _(posted 2025-07-04)_
 * **[AI Applications Architect](https://boards.greenhouse.io/turing/jobs/5525953004)** — _n/a_ _(posted 2025-05-01)_
 * **[Pre-Sales Architect](https://boards.greenhouse.io/turing/jobs/5472670004)** — _n/a_ _(posted 2025-03-15)_
 
@@ -311,4 +308,4 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 * **[Director, AI Solutions](https://jobs.lever.co/wpromote/0dd0873d-e15c-46c0-a11f-55d9335e51d1)** — ¤135,000 – ¤175,000 USD _(posted 2025-05-23)_
 
 ---
-_Updated automatically — 2025-07-04_
+_Updated automatically — 2025-07-05_
