@@ -180,10 +180,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 * **[Director of AI Infrastructure Engineering](https://job-boards.greenhouse.io/mqreferrals/jobs/6957539)** — _n/a_ _(posted 2025-06-24)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kogqnv4vgt8acnmdxwg1.webp" width="24" height="24" alt="Model N logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Model N](https://jobo.world/company/Model-N)
-
-* **[Associate Director, Sales Enablement (with AI Experience)](https://jobs.lever.co/modeln/7b9045a3-e46a-4221-944e-250bd6a26075)** — _n/a_ _(posted 2025-07-11)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
 
 * **[Solutions Architect, Generative AI](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Solutions-Architect--Generative-AI_JR1999305)** — _n/a_ _(posted 2025-06-26)_
@@ -225,10 +221,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 * **[Agentic AI Machine Learning Engineer](https://job-boards.greenhouse.io/sciencelogic/jobs/6956419)** — _n/a_ _(posted 2025-06-06)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/omuszbxxi40zo5a3n10x.webp" width="24" height="24" alt="Snowflake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Snowflake](https://jobo.world/company/Snowflake)
-
-* **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/8d1803d4-b244-46a9-92e9-8a6d8e7fef64)** — ¤163,000 – ¤232,000 USD _(posted 2025-06-10)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t5wr5b1aqi2iummogzxo.webp" width="24" height="24" alt="Spot AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Spot AI](https://jobo.world/company/Spot-AI)
 
 * **[Staff Software Engineer, AI](https://boards.greenhouse.io/spotai/jobs/6259623003)** — _n/a_ _(posted 2025-03-14)_
@@ -268,6 +260,8 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zq1j3077jl0jza2qltop.webp" width="24" height="24" alt="Turing logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Turing](https://jobo.world/company/Turing)
 
+* **[GenAI Eng Manager](https://job-boards.greenhouse.io/turing/jobs/5584995004)** — _n/a_ _(posted 2025-07-13)_
+* **[Senior GenAI Engineer](https://job-boards.greenhouse.io/turing/jobs/5584993004)** — _n/a_ _(posted 2025-07-13)_
 * **[GenAI Eng Manager](https://job-boards.greenhouse.io/turing/jobs/5585349004)** — _n/a_ _(posted 2025-07-10)_
 * **[Applied Research Engineer – Robotics Data &amp; ML](https://job-boards.greenhouse.io/turing/jobs/5576004004)** — _n/a_ _(posted 2025-07-04)_
 * **[AI Applications Architect](https://boards.greenhouse.io/turing/jobs/5525953004)** — _n/a_ _(posted 2025-05-01)_
@@ -287,4 +281,4 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 * **[Engineering](https://job-boards.greenhouse.io/wizardcommerce/jobs/5560793004)** — _n/a_ _(posted 2025-06-10)_
 
 ---
-_Updated automatically — 2025-07-13_
+_Updated automatically — 2025-07-14_
