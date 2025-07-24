@@ -20,6 +20,10 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 * **[Sales Engineer](https://alteryx.wd5.myworkdayjobs.com/alteryxcareers/job/New-York-USA---Remote/Sales-Engineer_R11030)** — _n/a_ _(posted 2025-05-13)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/klh0ko3ezhvk8rox2fr0.webp" width="24" height="24" alt="Anthropic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Anthropic](https://jobo.world/company/Anthropic)
+
+* **[Research Engineer / Scientist, Alignment Science](https://job-boards.greenhouse.io/anthropic/jobs/4631822008)** — _n/a_ _(posted 2025-04-16)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ggceq0tw5pnlncrgxzu5.webp" width="24" height="24" alt="Arine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arine](https://jobo.world/company/Arine)
 
 * **[Principal AI Engineer](https://job-boards.greenhouse.io/arine/jobs/5561059004)** — _n/a_ _(posted 2025-06-12)_
@@ -99,10 +103,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fzlotl53009yjfbklmgi.webp" width="24" height="24" alt="DevRev logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DevRev](https://jobo.world/company/DevRev)
 
 * **[Architect- Applied AI Engineer](https://job-boards.greenhouse.io/devrev/jobs/5528192004)** — _n/a_ _(posted 2025-04-29)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vcsw3ojmqjyiyuteloxu.webp" width="24" height="24" alt="DraftKings logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DraftKings](https://jobo.world/company/DraftKings)
-
-* **[Threat Intelligence Specalist](https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Threat-Intelligence-Specalist_JR11775-1)** — _n/a_ _(posted 2025-06-04)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dk4b0wh7a7bjmrawfziu.webp" width="24" height="24" alt="DroneDeploy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DroneDeploy](https://jobo.world/company/DroneDeploy)
 
@@ -189,10 +189,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 * **[Product Director | GenAI](https://jobs.ashbyhq.com/machinify/cfc5ee9c-85bd-467e-8c53-8f4138f605b3)** — _n/a_ _(posted 2025-06-24)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhkqlmin9hu3z85qyabt.webp" width="24" height="24" alt="Mozilla logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mozilla](https://jobo.world/company/Mozilla)
-
-* **[Developer Relations Lead, New Products](https://job-boards.greenhouse.io/mozilla/jobs/6852312)** — _n/a_ _(posted 2025-05-28)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hst5omo3snsic12lewxv.webp" width="24" height="24" alt="NerdWallet logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NerdWallet](https://jobo.world/company/NerdWallet)
 
 * **[Senior Intelligent Automation Engineer (Security)](https://jobs.ashbyhq.com/nerdwallet/360dba83-500a-4eda-a0df-9e7949d760a5)** — ¤136,000 – ¤252,000 USD _(posted 2025-07-18)_
@@ -252,6 +248,7 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q980vtbupbvhldx41hpg.webp" width="24" height="24" alt="ScienceLogic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ScienceLogic](https://jobo.world/company/ScienceLogic)
 
+* **[Agentic AI Machine Learning Engineer](https://job-boards.greenhouse.io/sciencelogic/jobs/6956419)** — _n/a_ _(posted 2025-06-06)_
 * **[Director, AI Product Management](https://job-boards.greenhouse.io/sciencelogic/jobs/6956204)** — _n/a_ _(posted 2025-06-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gyvfnx0sjlhezelw8wbw.webp" width="24" height="24" alt="Signifyd logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Signifyd](https://jobo.world/company/Signifyd)
@@ -311,4 +308,4 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 * **[Senior/Staff Software Engineer, Applied AI](https://jobs.ashbyhq.com/zip/86c4db8d-0c18-4979-9831-85ce0a9b66fc)** — ¤190,000 – ¤250,000 USD _(posted 2025-04-30)_
 
 ---
-_Updated automatically — 2025-07-23_
+_Updated automatically — 2025-07-24_
