@@ -169,7 +169,7 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
 * **[Business Intelligence Engineer II](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Business-Intelligence-Engineer-II_R-383094)** — _n/a_ _(posted 2025-07-18)_
-* **[VP, AI Platform Engineering](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Kentucky/VP--AI-Platform-Engineering_R-377324)** — _n/a_ _(posted 2025-06-02)_
+* **[Medicaid Business Intelligence Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Medicaid-Business-Intelligence-Engineer_R-381974-1)** — _n/a_ _(posted 2025-07-11)_
 * **[Senior Professional Business Intelligence Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Professional-Business-Intelligence-Engineer_R-375871-1)** — _n/a_ _(posted 2025-05-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjgangrpf64vx7s78vmf.webp" width="24" height="24" alt="Jellyfish logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jellyfish](https://jobo.world/company/Jellyfish)
@@ -308,4 +308,4 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 * **[Senior/Staff Software Engineer, Applied AI](https://jobs.ashbyhq.com/zip/86c4db8d-0c18-4979-9831-85ce0a9b66fc)** — ¤190,000 – ¤250,000 USD _(posted 2025-04-30)_
 
 ---
-_Updated automatically — 2025-07-24_
+_Updated automatically — 2025-07-25_
