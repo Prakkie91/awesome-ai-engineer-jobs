@@ -12,7 +12,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ytq0iq1fcp579zoqmu0w.webp" width="24" height="24" alt="Aledade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aledade](https://jobo.world/company/Aledade)
 
-* **[Staff Software Engineer, AI Data Engineering](https://jobs.lever.co/aledade/e46363f6-0fdf-4d01-842b-2492df142cae)** — _n/a_ _(posted 2025-07-28)_
 * **[Technical Program Manager (Data &amp; AI), Remote](https://jobs.lever.co/aledade/ed663e7a-4e42-43c0-a70a-01346f09672d)** — _n/a_ _(posted 2025-06-18)_
 * **[Technical Product Manager (AI/ML Research), Remote](https://jobs.lever.co/aledade/f514d4f3-40f8-4f72-99ed-75b5084b943b)** — _n/a_ _(posted 2025-06-17)_
 * **[VP of Technical Product Management (AI Products), Remote](https://jobs.lever.co/aledade/2eaec26d-206e-49a5-ad5d-568fc7725e83)** — _n/a_ _(posted 2025-05-21)_
@@ -20,10 +19,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dopqydjbowgsulf9ebb2.webp" width="24" height="24" alt="Altera logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altera](https://jobo.world/company/Altera)
 
 * **[Sales Engineer](https://alteryx.wd5.myworkdayjobs.com/alteryxcareers/job/New-York-USA---Remote/Sales-Engineer_R11030)** — _n/a_ _(posted 2025-05-13)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/klh0ko3ezhvk8rox2fr0.webp" width="24" height="24" alt="Anthropic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Anthropic](https://jobo.world/company/Anthropic)
-
-* **[Research Engineer / Scientist, Alignment Science](https://job-boards.greenhouse.io/anthropic/jobs/4631822008)** — _n/a_ _(posted 2025-04-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ggceq0tw5pnlncrgxzu5.webp" width="24" height="24" alt="Arine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arine](https://jobo.world/company/Arine)
 
@@ -45,6 +40,10 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 * **[Head of ML](https://jobs.ashbyhq.com/biorender/81d9d1db-072a-459b-a39d-688b0defd546)** — _n/a_ _(posted 2025-04-12)_
 * **[Senior AI Engineer](https://jobs.ashbyhq.com/biorender/001c591c-90cd-4441-aef1-c0818d6159d9)** — _n/a_ _(posted 2025-03-12)_
 * **[AI Engineer](https://jobs.ashbyhq.com/biorender/b92aa20e-de40-4c9d-b8da-ec69eb6a8f01)** — _n/a_ _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/stsgjszd0fyq1amxk6x2.webp" width="24" height="24" alt="Blank Street logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Blank Street](https://jobo.world/company/Blank-Street)
+
+* **[Business Intelligence Analyst](https://apply.workable.com/dane-street-llc/j/3B6A7D8F1C/)** — _n/a_ _(posted 2025-07-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
 
@@ -146,12 +145,12 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rkvadkpjcebsbg2fjdtk.webp" width="24" height="24" alt="General Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[General Motors](https://jobo.world/company/General-Motors)
 
+* **[Talent Intelligence Consultant](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Talent-Intelligence-Consultant_JR-202512661)** — _n/a_ _(posted 2025-07-29)_
 * **[Principal Staff Artificial Intelligence Engineer](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Principal-Staff-Artificial-Intelligence-Engineer_JR-202509598)** — _n/a_ _(posted 2025-07-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ih7xwdumptjo0d31rw7e.webp" width="24" height="24" alt="HackerOne logo" style="vertical-align:middle"/>&nbsp;&nbsp;[HackerOne](https://jobo.world/company/HackerOne)
 
 * **[Software Engineer, AI](https://jobs.ashbyhq.com/hackerone/5128993f-1c5b-4ae1-96d3-ee92dae5bb90)** — ¤150,000 – ¤220,000 USD _(posted 2025-07-11)_
-* **[Senior Software Engineer, AI](https://jobs.ashbyhq.com/hackerone/1a9d0d89-58ac-4445-9645-d27422f797e0)** — ¤147,000 – ¤184,000 USD _(posted 2025-05-23)_
 * **[Staff Software Engineer, AI](https://jobs.ashbyhq.com/hackerone/4c39767e-5adb-457c-90d4-15fb8de843f2)** — ¤170,000 – ¤211,000 USD _(posted 2025-05-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
@@ -172,10 +171,6 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 * **[Project Lead - AI (Eastern Standard Time)](https://apply.workable.com/keywords-intl1/j/F5C3CF9DE4/)** — ¤72,800 – ¤83,200 USD _(posted 2025-04-10)_
 * **[Project Lead - AI](https://apply.workable.com/keywords-intl1/j/ACDA92FF70/)** — ¤72,800 – ¤83,200 USD _(posted 2025-02-26)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/c1quzk9ztnguozq9gkd5.webp" width="24" height="24" alt="Kustomer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kustomer](https://jobo.world/company/Kustomer)
-
-* **[Software Engineer, AI Platform (Senior, Staff+) ](https://jobs.ashbyhq.com/kustomer/5f7b0f3f-6a08-4f0e-8b8f-6c63914fd8bf)** — _n/a_ _(posted 2025-06-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bjxntapcwce90erhhj8b.webp" width="24" height="24" alt="Machinify logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Machinify](https://jobo.world/company/Machinify)
 
@@ -233,6 +228,8 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
 
+* **[Forward Deployed Software Engineer – Applied AI FDE](https://jobs.smartrecruiters.com/ServiceNow/744000073632525-forward-deployed-software-engineer-applied-ai-fde)** — _n/a_ _(posted 2025-07-30)_
+* **[Forward Deployed Software Engineer – Applied AI FDE](https://jobs.smartrecruiters.com/ServiceNow/744000073631600-forward-deployed-software-engineer-applied-ai-fde)** — _n/a_ _(posted 2025-07-30)_
 * **[Advisory Solution Consultant, Workflow Data Fabric and Intelligent Automation](https://jobs.smartrecruiters.com/ServiceNow/744000072513205-advisory-solution-consultant-workflow-data-fabric-and-intelligent-automation)** — _n/a_ _(posted 2025-07-24)_
 * **[Senior Manager, SEO & AIO](https://jobs.smartrecruiters.com/ServiceNow/744000072056341-senior-manager-seo-aio)** — _n/a_ _(posted 2025-07-22)_
 
@@ -311,4 +308,4 @@ Browse a wide range of remote AI Engineer positions available globally. New jobs
 * **[Senior/Staff Software Engineer, Applied AI](https://jobs.ashbyhq.com/zip/86c4db8d-0c18-4979-9831-85ce0a9b66fc)** — ¤190,000 – ¤250,000 USD _(posted 2025-04-30)_
 
 ---
-_Updated automatically — 2025-07-31_
+_Updated automatically — 2025-08-01_
